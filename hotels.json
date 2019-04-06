@@ -1,0 +1,32 @@
+[
+    {
+        "index": 1,
+        "name": "Hotel Restaurant Margaretenhof",
+        "description": "Margaretenhof 1, Überherrn-Berus"
+    },
+    {
+        "index": 2,
+        "name": "Romantik Hotel Linslerhof",
+        "description": "Linslerhof 1, Überherrn"
+    },
+    {
+        "index": 3,
+        "name": "Design-Hotel Chapeau Noir",
+        "description": "Hauptstr. 1, Überherrn"
+    },
+    {
+        "index": 4,
+        "name": "Hotel Restaurant Zur Hexe",
+        "description": "Alleestrasse 100, Überherrn"
+    },
+    {
+        "index": 5,
+        "name": "Hotel Felsberger Hof",
+        "description": "Metzer Str. 117, Überherrn-Felsberg"
+    },
+    {
+        "index": 6,
+        "name": "Hotel Restaurant Häsfeld",
+        "description": "Comotorstraße 9, Überherrn-Altforweiler"
+    }
+]

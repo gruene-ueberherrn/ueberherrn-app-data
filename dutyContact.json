@@ -1,0 +1,80 @@
+{
+    "BDZ_Saarlouis": {
+        "name": "Marienhaus Klinikum Saarlouis",
+        "phone": "0180-5663003",
+        "latitude": "49.315190",
+        "longitude": "6.756809"
+    },
+    "BDZ_Saarlouis_Kinder": {
+        "name": "Marienhaus Klinikum Saarlouis",
+        "phone": "06831-1257883",
+        "latitude": "49.315190",
+        "longitude": "6.756809"
+    },
+    "Jacob_Dillingen": {
+        "name": "Dr. Dr. Jacob, Dillingen/Pachten",
+        "phone": "06831-73073",
+        "latitude": "49.355172",
+        "longitude": "6.711954"
+    },
+    "Alles_Saarlouis": {
+        "name": "Dr. Alles und Kollegen, Saarlouis",
+        "phone": "06831-1500",
+        "latitude": "49.316307",
+        "longitude": "6.752763"
+    },
+    "Hartung_Saarbrücken": {
+        "name": "Dr. Hartung, Saarbrücken",
+        "phone": "0681-34875",
+        "latitude": "",
+        "longitude": ""
+    },
+    "Weber_Saarwellingen": {
+        "name": "Dr. Weber, Saarwellingen",
+        "phone": "06838-8659550",
+        "latitude": "",
+        "longitude": ""
+    },
+    "Docs_Saarlouis": {
+        "name": "Doc's Apotheke, Saarlouis",
+        "phone": "06831-4881199",
+        "latitude": "",
+        "longitude": ""
+    },
+    "Saar_Saarlouis": {
+        "name": "Saar-Apotheke, Saarlouis",
+        "phone": "06834-41051",
+        "latitude": "",
+        "longitude": ""
+    },
+    "Vitalikum_Ueberherrn": {
+        "name": "Vitalikum-Apotheke, Überherrn",
+        "phone": "06836-4710830",
+        "latitude": "49.238764",
+        "longitude": "6.701178"
+    },
+    "Glueckauf_Fraulautern": {
+        "name": "Glückauf-Apotheke, Saarlouis-Fraulautern",
+        "phone": "06831-80560",
+        "latitude": "",
+        "longitude": ""
+    },
+    "Park_Wallerfangen": {
+        "name": "Park-Apotheke, Wallerfangen",
+        "phone": "06831-4870848",
+        "latitude": "",
+        "longitude": ""
+    },
+    "Globus_Saarlouis": {
+        "name": "Apotheke im Globus, Saarlouis",
+        "phone": "06831-4881580",
+        "latitude": "",
+        "longitude": ""
+    },
+    "Marien_Saarlouis": {
+        "name": "Marien-Apotheke, Saarlouis",
+        "phone": "06831-42895",
+        "latitude": "",
+        "longitude": ""
+    }
+}

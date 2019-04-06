@@ -1,0 +1,199 @@
+[
+    {
+        "numberType": 1,
+        "numberTypeText": "Notruf",
+        "numberTypeItems": [
+            {
+                "index": 1,
+                "name": "Polizei",
+                "phone": "110"
+            },
+            {
+                "index": 2,
+                "name": "Feuerwehr/Rettungsdienst",
+                "phone": "112"
+            },
+            {
+                "index": 3,
+                "name": "Polizeirevier Bous",
+                "phone": "06834-9250"
+            },
+            {
+                "index": 4,
+                "name": "Polizeiposten Überherrn",
+                "phone": "06836-92520"
+            }
+        ]
+    },
+    {
+        "numberType": 2,
+        "numberTypeText": "Versorgungsdienste",
+        "numberTypeItems": [
+            {
+                "index": 1,
+                "name": "Energis Störungsnummer Strom",
+                "phone": "0681-90692611"
+            },
+            {
+                "index": 2,
+                "name": "Energis Störungsnummer Erdgas",
+                "phone": "0681-90692610"
+            },
+            {
+                "index": 3,
+                "name": "KDÜ Rufbereitschaft Wasser/Abwasser",
+                "phone": "06836-921940"
+            },
+            {
+                "index": 4,
+                "name": "Service-Telefon Müllabfuhr (Fa. Adam)",
+                "phone": "06861-2691"
+            },
+            {
+                "index": 5,
+                "name": "Gemeinde-Bauhof Rufbereitschaft",
+                "phone": "06836-4710100"
+            }
+        ]
+    },
+    {
+        "numberType": 3,
+        "numberTypeText": "Pflege & Soziales",
+        "numberTypeItems": [
+            {
+                "index": 1,
+                "name": "Behindertenbeauftragter: Norbert Güthler",
+                "phone": "06836-7248100"
+            },
+            {
+                "index": 2,
+                "name": "Frauenhaus Saarlouis",
+                "phone": "06831-2200"
+            },
+            {
+                "index": 3,
+                "name": "Pflegestützpunkt Kreis Saarlouis",
+                "phone": "06831-120630"
+            },
+            {
+                "index": 4,
+                "name": "Caritas Sozialstation",
+                "phone": "06834-943495"
+            },
+            {
+                "index": 5,
+                "name": "Altenpflege- und Betreuungszentrum Überherrn",
+                "phone": "06836-80000"
+            }
+        ]
+    },
+    {
+        "numberType": 4,
+        "numberTypeText": "Freiwillige Feuerwehr",
+        "numberTypeItems": [
+            {
+                "index": 1,
+                "name": "Wehrführer: Alois Thilmont",
+                "phone": "06837-909525"
+            },
+            {
+                "index": 2,
+                "name": "Löschbezirk Altforweiler: Stefan Feiler",
+                "phone": "06836-7234008"
+            },
+            {
+                "index": 3,
+                "name": "Löschbezirk Berus: Markus Zöllner",
+                "phone": "0163-6662352"
+            },
+            {
+                "index": 4,
+                "name": "Löschbezirk Felsberg: Jörg Schönberger",
+                "phone": "06837-74557"
+            },
+            {
+                "index": 5,
+                "name": "Löschbezirk Süd: Patrick Hörner",
+                "phone": "06836-7230077"
+            }
+        ]
+    },
+    {
+        "numberType": 5,
+        "numberTypeText": "Ortsvorsteher",
+        "numberTypeItems": [
+            {
+                "index": 1,
+                "name": "Altforweiler: Gerhard Hewer",
+                "phone": "06836-4043"
+            },
+            {
+                "index": 2,
+                "name": "Berus: Karla Thieser-Aulenbacher",
+                "phone": "06836-2187"
+            },
+            {
+                "index": 3,
+                "name": "Bisten: Vinzenz Winter",
+                "phone": "06836-718707"
+            },
+            {
+                "index": 4,
+                "name": "Felsberg: Agnes Klein",
+                "phone": "06837-529"
+            },
+            {
+                "index": 5,
+                "name": "Überherrn: Arno Zenner",
+                "phone": "06836-5225"
+            },
+            {
+                "index": 6,
+                "name": "Wohnstadt: Günter Hild",
+                "phone": "06836-3606"
+            }
+        ]
+    },
+    {
+        "numberType": 6,
+        "numberTypeText": "Schiedspersonen",
+        "numberTypeItems": [
+            {
+                "index": 1,
+                "name": "Altforweiler und Berus: Walter Grube",
+                "phone": "06836-3805"
+            },
+            {
+                "index": 2,
+                "name": "Felsberg: Helga Jenal",
+                "phone": "06837-708377"
+            },
+            {
+                "index": 3,
+                "name": "Bisten, Überherrn und Wohnstadt: Wilhelm Wagner",
+                "phone": "06836-92383"
+            }
+        ]
+    },
+    {
+        "numberType": 7,
+        "numberTypeText": "Sonstige",
+        "numberTypeItems": [
+            {
+                "index": 1,
+                "name": "Forstrevier Überherrn: Matthias Krauser",
+                "phone": "0681-9712881"
+            },
+            {
+                "index": 2,
+                "name": "Schlüsselnotdienst",
+                "phone": "0173-3071107"
+            },
+            {
+                "index": 3,
+                "name": "First Responder: 1. Vorsitzender Thomas Andre",
+                "phone": "0151-74317335"
+            }
+        ]
+    }
+]
