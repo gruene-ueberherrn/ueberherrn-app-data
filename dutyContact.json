@@ -17,64 +17,119 @@
         "latitude": "49.355172",
         "longitude": "6.711954"
     },
+    "Worobiow_Wadgassen": {
+        "name": "Dr. Worobiow, Wadgassen",
+        "phone": "06834-41132",
+        "phone2": "0170-3838395",
+        "latitude": "49.267489",
+        "longitude": "6.797950"
+    },
     "Alles_Saarlouis": {
         "name": "Dr. Alles und Kollegen, Saarlouis",
         "phone": "06831-1500",
         "latitude": "49.316307",
         "longitude": "6.752763"
     },
+    "Anterist_Saarbrücken": {
+        "name": "Dr. Barbara Anterist, Saarbrücken",
+        "phone": "0681-9601260",
+        "latitude": "49.241122",
+        "longitude": "7.017611"
+    },
     "Hartung_Saarbrücken": {
         "name": "Dr. Hartung, Saarbrücken",
         "phone": "0681-34875",
+        "latitude": "49.236570",
+        "longitude": "6.991870"
+    },
+    "HNO_Notfallrufnummer": {
+        "name": "Notfallrufnummer",
+        "phone": "116117",
         "latitude": "",
         "longitude": ""
     },
     "Weber_Saarwellingen": {
         "name": "Dr. Weber, Saarwellingen",
         "phone": "06838-8659550",
-        "latitude": "",
-        "longitude": ""
+        "latitude": "49.329410",
+        "longitude": "6.857307"
     },
-    "Docs_Saarlouis": {
+    "Voswinkel_Wallerfangen": {
+        "name": "Dr. Voswinkel, Saarlouis-Wallerfangen",
+        "phone": "06837-708236",
+        "latitude": "49.331620",
+        "longitude": "6.654440"
+    },
+    "Apotheke_Docs_Saarlouis": {
         "name": "Doc's Apotheke, Saarlouis",
         "phone": "06831-4881199",
-        "latitude": "",
-        "longitude": ""
+        "latitude": "49.316135",
+        "longitude": "6.748727"
     },
-    "Saar_Saarlouis": {
+    "Apotheke_Saar_Saarlouis": {
         "name": "Saar-Apotheke, Saarlouis",
         "phone": "06834-41051",
-        "latitude": "",
-        "longitude": ""
+        "latitude": "49.313498",
+        "longitude": "6.752809"
     },
-    "Vitalikum_Ueberherrn": {
+    "Apotheke_Vitalikum_Ueberherrn": {
         "name": "Vitalikum-Apotheke, Überherrn",
         "phone": "06836-4710830",
         "latitude": "49.238764",
         "longitude": "6.701178"
     },
-    "Glueckauf_Fraulautern": {
+    "Apotheke_Europa_Ueberherrn": {
+        "name": "Europa-Apotheke, Überherrn",
+        "phone": "06836-5781",
+        "latitude": "49.243295",
+        "longitude": "6.698007"
+    },
+    "Apotheke_Glueckauf_Fraulautern": {
         "name": "Glückauf-Apotheke, Saarlouis-Fraulautern",
         "phone": "06831-80560",
-        "latitude": "",
-        "longitude": ""
+        "latitude": "49.325126",
+        "longitude": "6.761193"
     },
-    "Park_Wallerfangen": {
+    "Apotheke_Park_Wallerfangen": {
         "name": "Park-Apotheke, Wallerfangen",
         "phone": "06831-4870848",
-        "latitude": "",
-        "longitude": ""
+        "latitude": "49.329594",
+        "longitude": "6.717271"
     },
-    "Globus_Saarlouis": {
+    "Apotheke_Globus_Saarlouis": {
         "name": "Apotheke im Globus, Saarlouis",
         "phone": "06831-4881580",
-        "latitude": "",
-        "longitude": ""
+        "latitude": "49.320781",
+        "longitude": "6.748424"
     },
-    "Marien_Saarlouis": {
+    "Apotheke_Marien_Saarlouis": {
         "name": "Marien-Apotheke, Saarlouis",
         "phone": "06831-42895",
-        "latitude": "",
-        "longitude": ""
+        "latitude": "49.313024",
+        "longitude": "6.752974"
+    },
+    "Apotheke_Donatus_Roden": {
+        "name": "Donatus-Apotheke, Saarlouis-Roden",
+        "phone": "06831-80226",
+        "latitude": "49.332125",
+        "longitude": "6.748161"
+    },
+    "Apotheke_Roemer_Roden": {
+        "name": "Römer-Apotheke, Saarlouis-Roden",
+        "phone": "06831-88880",
+        "latitude": "49.331384",
+        "longitude": "6.748382"
+    },
+    "Apotheke_Brunnen_Dillingen": {
+        "name": "Brunnen-Apotheke, Dillingen",
+        "phone": "06831-703936",
+        "latitude": "49.354942",
+        "longitude": "6.726538"
+    },
+    "Apotheke_Crispinus_Lisdorf": {
+        "name": "Crispinus-Apotheke, Saarlouis-Lisdorf",
+        "phone": "06831-3055",
+        "latitude": "49.303879",
+        "longitude": "6.757897"
     }
 }

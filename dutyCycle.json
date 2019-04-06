@@ -6,26 +6,24 @@
         "BDZ_Saarlouis_Kinder": [6, 0]
     },
     "dentist": {
-        "Jacob_Dillingen": [6, 0]
+        "Worobiow_Wadgassen": [6, 0]
     },
     "oculist": {
-        "Alles_Saarlouis": [6, 0]
+        "Anterist_Saarbrücken": [6, 0]
     },
     "otorhinolaryngologist": {
-        "Hartung_Saarbrücken": [6, 0]
+        "HNO_Notfallrufnummer": [6, 0]
     },
     "pharmacy": {
-        "Docs_Saarlouis": [5],
-        "Saar_Saarlouis": [6],
-        "Vitalikum_Ueberherrn": [0],
-        "Glueckauf_Fraulautern": [1],
-        "Park_Wallerfangen": [2],
-        "Globus_Saarlouis": [3],
-        "Marien_Saarlouis": [4]
+        "Apotheke_Donatus_Roden": [5],
+        "Apotheke_Europa_Ueberherrn": [6],
+        "Apotheke_Roemer_Roden": [0],
+        "Apotheke_Brunnen_Dillingen": [1],
+        "Apotheke_Crispinus_Lisdorf": [2],
+        "Apotheke_Docs_Saarlouis": [3],
+        "Apotheke_Saar_Saarlouis": [4]
     },
     "vet": {
-        "sdgsdhg": [1],
-        "sdgdfsdhg": [2],
-        "Weber_Saarwellingen": [6, 0]
+        "Voswinkel_Wallerfangen": [6, 0]
     }
 }
