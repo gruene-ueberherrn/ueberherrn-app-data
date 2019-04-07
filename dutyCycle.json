@@ -1,4 +1,5 @@
-{
+[{
+    "validFrom": "2019-04-05",
     "doctor": {
         "BDZ_Saarlouis": [6, 0]
     },
@@ -26,4 +27,4 @@
     "vet": {
         "Voswinkel_Wallerfangen": [6, 0]
     }
-}
+}]
