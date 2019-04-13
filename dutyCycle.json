@@ -1,5 +1,5 @@
 [{
-    "validFrom": "2019-04-05",
+    "validFrom": "2019-04-12",
     "doctor": {
         "BDZ_Saarlouis": [6, 0]
     },
@@ -7,24 +7,24 @@
         "BDZ_Saarlouis_Kinder": [6, 0]
     },
     "dentist": {
-        "Worobiow_Wadgassen": [6, 0]
+        "Zahnarzt_Rotta_Schwalbach": [6, 0]
     },
     "oculist": {
-        "Anterist_Saarbrücken": [6, 0]
+        "Augenarzt_Sindlinger_Voelkingen": [6, 0]
     },
     "otorhinolaryngologist": {
         "HNO_Notfallrufnummer": [6, 0]
     },
     "pharmacy": {
-        "Apotheke_Donatus_Roden": [5],
-        "Apotheke_Europa_Ueberherrn": [6],
-        "Apotheke_Roemer_Roden": [0],
-        "Apotheke_Brunnen_Dillingen": [1],
-        "Apotheke_Crispinus_Lisdorf": [2],
-        "Apotheke_Docs_Saarlouis": [3],
-        "Apotheke_Saar_Saarlouis": [4]
+        "Apotheke_Vitalikum_Ueberherrn": [5],
+        "Apotheke_Glueckauf_Fraulautern": [6],
+        "Apotheke_Park_Wallerfangen": [0],
+        "Apotheke_Globus_Saarlouis": [1],
+        "Apotheke_Marien_Saarlouis": [2],
+        "Apotheke_Ring_Saarlouis": [3],
+        "Apotheke_Glocken_Saarlouis": [4]
     },
     "vet": {
-        "Voswinkel_Wallerfangen": [6, 0]
+        "Tierarzt_TimmermannTernes_Dillingen": [6, 0]
     }
 }]

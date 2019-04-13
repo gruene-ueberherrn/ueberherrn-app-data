@@ -11,32 +11,44 @@
         "latitude": "49.315190",
         "longitude": "6.756809"
     },
-    "Jacob_Dillingen": {
+    "Zahnarzt_Jacob_Dillingen": {
         "name": "Dr. Dr. Jacob, Dillingen/Pachten",
         "phone": "06831-73073",
         "latitude": "49.355172",
         "longitude": "6.711954"
     },
-    "Worobiow_Wadgassen": {
+    "Zahnarzt_Worobiow_Wadgassen": {
         "name": "Dr. Worobiow, Wadgassen",
         "phone": "06834-41132",
         "phone2": "0170-3838395",
         "latitude": "49.267489",
         "longitude": "6.797950"
     },
-    "Alles_Saarlouis": {
+    "Zahnarzt_Rotta_Schwalbach": {
+        "name": "Dr. A. Rotta, Schwalbach",
+        "phone": "06834-55505",
+        "latitude": "49.303142",
+        "longitude": "6.813588"
+    },
+    "Augenarzt_Alles_Saarlouis": {
         "name": "Dr. Alles und Kollegen, Saarlouis",
         "phone": "06831-1500",
         "latitude": "49.316307",
         "longitude": "6.752763"
     },
-    "Anterist_Saarbrücken": {
+    "Augenarzt_Anterist_Saarbrücken": {
         "name": "Dr. Barbara Anterist, Saarbrücken",
         "phone": "0681-9601260",
         "latitude": "49.241122",
         "longitude": "7.017611"
     },
-    "Hartung_Saarbrücken": {
+    "Augenarzt_Sindlinger_Voelkingen": {
+        "name": "Sindlinger, Völklingen",
+        "phone": "06898-23355",
+        "latitude": "49.250822",
+        "longitude": "6.857029"
+    },
+    "HNO_Hartung_Saarbrücken": {
         "name": "Dr. Hartung, Saarbrücken",
         "phone": "0681-34875",
         "latitude": "49.236570",
@@ -48,29 +60,23 @@
         "latitude": "",
         "longitude": ""
     },
-    "Weber_Saarwellingen": {
+    "Tierarzt_Weber_Saarwellingen": {
         "name": "Dr. Weber, Saarwellingen",
         "phone": "06838-8659550",
         "latitude": "49.329410",
         "longitude": "6.857307"
     },
-    "Voswinkel_Wallerfangen": {
+    "Tierarzt_Voswinkel_Wallerfangen": {
         "name": "Dr. Voswinkel, Saarlouis-Wallerfangen",
         "phone": "06837-708236",
         "latitude": "49.331620",
         "longitude": "6.654440"
     },
-    "Apotheke_Docs_Saarlouis": {
-        "name": "Doc's Apotheke, Saarlouis",
-        "phone": "06831-4881199",
-        "latitude": "49.316135",
-        "longitude": "6.748727"
-    },
-    "Apotheke_Saar_Saarlouis": {
-        "name": "Saar-Apotheke, Saarlouis",
-        "phone": "06834-41051",
-        "latitude": "49.313498",
-        "longitude": "6.752809"
+    "Tierarzt_TimmermannTernes_Dillingen": {
+        "name": "Timmermann & Ternes, Dillingen",
+        "phone": "06831-9866430",
+        "latitude": "49.358514",
+        "longitude": "6.724391"
     },
     "Apotheke_Vitalikum_Ueberherrn": {
         "name": "Vitalikum-Apotheke, Überherrn",
@@ -102,11 +108,35 @@
         "latitude": "49.320781",
         "longitude": "6.748424"
     },
+    "Apotheke_Docs_Saarlouis": {
+        "name": "Doc's Apotheke, Saarlouis",
+        "phone": "06831-4881199",
+        "latitude": "49.316135",
+        "longitude": "6.748727"
+    },
+    "Apotheke_Saar_Saarlouis": {
+        "name": "Saar-Apotheke, Saarlouis",
+        "phone": "06834-41051",
+        "latitude": "49.313498",
+        "longitude": "6.752809"
+    },
     "Apotheke_Marien_Saarlouis": {
         "name": "Marien-Apotheke, Saarlouis",
         "phone": "06831-42895",
         "latitude": "49.313024",
         "longitude": "6.752974"
+    },
+    "Apotheke_Ring_Saarlouis": {
+        "name": "Ring-Apotheke, Saarlouis",
+        "phone": "06831-2790",
+        "latitude": "49.314344",
+        "longitude": "6.752034"
+    },
+    "Apotheke_Glocken_Saarlouis": {
+        "name": "Glocken-Apotheke, Saarlouis",
+        "phone": "06831-42121",
+        "latitude": "49.314320",
+        "longitude": "6.752489"
     },
     "Apotheke_Donatus_Roden": {
         "name": "Donatus-Apotheke, Saarlouis-Roden",
