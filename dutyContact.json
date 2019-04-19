@@ -12,7 +12,7 @@
         "longitude": "6.756809"
     },
     "Zahnarzt_Jacob_Dillingen": {
-        "name": "Dr. Dr. Jacob, Dillingen/Pachten",
+        "name": "Dr. Dr. Jacob, Dillingen-Pachten",
         "phone": "06831-73073",
         "latitude": "49.355172",
         "longitude": "6.711954"
@@ -29,6 +29,25 @@
         "phone": "06834-55505",
         "latitude": "49.303142",
         "longitude": "6.813588"
+    },
+    "Zahnarzt_Dahlheimer_Elm": {
+        "name": "G. Dahlheimer, Schwalbach-Elm",
+        "phone": "06834-952620",
+        "phone2": "0171-6566861",
+        "latitude": "49.292675",
+        "longitude": "6.837309"
+    },
+    "Zahnarzt_Henzler_Bous": {
+        "name": "Dr. M. Henzler, Bous",
+        "phone": "06834-2586",
+        "latitude": "49.275225",
+        "longitude": "6.796054"
+    },
+    "Zahnarzt_Schaefer_Saarlouis": {
+        "name": "R. Schäfer, Saarlouis",
+        "phone": "06831-2411",
+        "latitude": "49.309479",
+        "longitude": "6.746926"
     },
     "Augenarzt_Alles_Saarlouis": {
         "name": "Dr. Alles und Kollegen, Saarlouis",
@@ -47,6 +66,18 @@
         "phone": "06898-23355",
         "latitude": "49.250822",
         "longitude": "6.857029"
+    },
+    "Augenarzt_ElHusseiny_Saarlouis": {
+        "name": "Dr. El Husseiny, Saarlouis",
+        "phone": "06831-42949",
+        "latitude": "49.314093",
+        "longitude": "6.749370"
+    },
+    "Augenarzt_KaleghiZand_Heusweiler": {
+        "name": "Dr. Kaleghi Zand, Heusweiler",
+        "phone": "06806-77172",
+        "latitude": "49.338958",
+        "longitude": "6.930069"
     },
     "HNO_Hartung_Saarbrücken": {
         "name": "Dr. Hartung, Saarbrücken",
@@ -67,7 +98,7 @@
         "longitude": "6.857307"
     },
     "Tierarzt_Voswinkel_Wallerfangen": {
-        "name": "Dr. Voswinkel, Saarlouis-Wallerfangen",
+        "name": "Dr. Voswinkel, Wallerfangen",
         "phone": "06837-708236",
         "latitude": "49.331620",
         "longitude": "6.654440"
@@ -78,29 +109,47 @@
         "latitude": "49.358514",
         "longitude": "6.724391"
     },
-    "Apotheke_Vitalikum_Ueberherrn": {
-        "name": "Vitalikum-Apotheke, Überherrn",
-        "phone": "06836-4710830",
-        "latitude": "49.238764",
-        "longitude": "6.701178"
+    "Tierarzt_Mittermueller_Dillingen": {
+        "name": "Dr. Mittermüller, Dillingen",
+        "phone": "06831-79070",
+        "latitude": "49.364282",
+        "longitude": "6.717600"
     },
-    "Apotheke_Europa_Ueberherrn": {
-        "name": "Europa-Apotheke, Überherrn",
-        "phone": "06836-5781",
-        "latitude": "49.243295",
-        "longitude": "6.698007"
+    "Tierarzt_Otto_Ensdorf": {
+        "name": "Otto, Ensdorf",
+        "phone": "06831-5053307",
+        "latitude": "49.307788",
+        "longitude": "6.777316"
     },
-    "Apotheke_Glueckauf_Fraulautern": {
-        "name": "Glückauf-Apotheke, Saarlouis-Fraulautern",
-        "phone": "06831-80560",
-        "latitude": "49.325126",
-        "longitude": "6.761193"
+    "Tierarzt_Weber_Neuforweiler": {
+        "name": "Dr. Weber, Saarlouis-Neuforweiler",
+        "phone": "06831-461470",
+        "latitude": "49.286694",
+        "longitude": "6.731480"
     },
-    "Apotheke_Park_Wallerfangen": {
-        "name": "Park-Apotheke, Wallerfangen",
-        "phone": "06831-4870848",
-        "latitude": "49.329594",
-        "longitude": "6.717271"
+    "Apotheke_EKC_Bous": {
+        "name": "Apotheke im EKC, Bous",
+        "phone": "06834-782399",
+        "latitude": "49.283308",
+        "longitude": "6.785463"
+    },
+    "Apotheke_Brunnen_Dillingen": {
+        "name": "Brunnen-Apotheke, Dillingen",
+        "phone": "06831-703936",
+        "latitude": "49.354942",
+        "longitude": "6.726538"
+    },
+    "Apotheke_Pachtener_Dillingen": {
+        "name": "Pachtener-Apotheke, Dillingen",
+        "phone": "06831-73309",
+        "latitude": "49.356195",
+        "longitude": "6.713802"
+    },
+    "Apotheke_Loewen_Ensdorf": {
+        "name": "Löwen-Apotheke, Ensdorf",
+        "phone": "06831-958866",
+        "latitude": "49.331384",
+        "longitude": "6.748382"
     },
     "Apotheke_Globus_Saarlouis": {
         "name": "Apotheke im Globus, Saarlouis",
@@ -138,6 +187,24 @@
         "latitude": "49.314320",
         "longitude": "6.752489"
     },
+    "Apotheke_Ludwigs_Saarlouis": {
+        "name": "Ludwigs-Apotheke, Saarlouis",
+        "phone": "06831-2957",
+        "latitude": "49.314983",
+        "longitude": "6.751548"
+    },
+    "Apotheke_Glueckauf_Fraulautern": {
+        "name": "Glückauf-Apotheke, Saarlouis-Fraulautern",
+        "phone": "06831-80560",
+        "latitude": "49.325126",
+        "longitude": "6.761193"
+    },
+    "Apotheke_Crispinus_Lisdorf": {
+        "name": "Crispinus-Apotheke, Saarlouis-Lisdorf",
+        "phone": "06831-3055",
+        "latitude": "49.303879",
+        "longitude": "6.757897"
+    },
     "Apotheke_Donatus_Roden": {
         "name": "Donatus-Apotheke, Saarlouis-Roden",
         "phone": "06831-80226",
@@ -150,16 +217,34 @@
         "latitude": "49.331384",
         "longitude": "6.748382"
     },
-    "Apotheke_Brunnen_Dillingen": {
-        "name": "Brunnen-Apotheke, Dillingen",
-        "phone": "06831-703936",
-        "latitude": "49.354942",
-        "longitude": "6.726538"
+    "Apotheke_Vitalikum_Ueberherrn": {
+        "name": "Vitalikum-Apotheke, Überherrn",
+        "phone": "06836-4710830",
+        "latitude": "49.238764",
+        "longitude": "6.701178"
     },
-    "Apotheke_Crispinus_Lisdorf": {
-        "name": "Crispinus-Apotheke, Saarlouis-Lisdorf",
-        "phone": "06831-3055",
-        "latitude": "49.303879",
-        "longitude": "6.757897"
+    "Apotheke_Europa_Ueberherrn": {
+        "name": "Europa-Apotheke, Überherrn",
+        "phone": "06836-5781",
+        "latitude": "49.243295",
+        "longitude": "6.698007"
+    },
+    "Apotheke_Oranna_Ueberherrn": {
+        "name": "St. Oranna-Apotheke, Überherrn",
+        "phone": "06836-2995",
+        "latitude": "49.245446",
+        "longitude": "6.697329"
+    },
+    "Apotheke_Antonius_Altforweiler": {
+        "name": "Antonius-Apotheke, Überherrn-Altforweiler",
+        "phone": "06836-5212",
+        "latitude": "49.272709",
+        "longitude": "6.708249"
+    },
+    "Apotheke_Park_Wallerfangen": {
+        "name": "Park-Apotheke, Wallerfangen",
+        "phone": "06831-4870848",
+        "latitude": "49.329594",
+        "longitude": "6.717271"
     }
 }

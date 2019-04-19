@@ -1,30 +1,35 @@
 [{
-    "validFrom": "2019-04-12",
+    "validFrom": "2019-04-19",
     "doctor": {
-        "BDZ_Saarlouis": [6, 0]
+        "BDZ_Saarlouis": [5, 6, 0, 1]
     },
     "pediatrist": {
-        "BDZ_Saarlouis_Kinder": [6, 0]
+        "BDZ_Saarlouis_Kinder": [5, 6, 0, 1]
     },
     "dentist": {
-        "Zahnarzt_Rotta_Schwalbach": [6, 0]
+        "Zahnarzt_Schaefer_Saarlouis": [5],
+        "Zahnarzt_Dahlheimer_Elm": [6, 0],
+        "Zahnarzt_Henzler_Bous": [1]
     },
     "oculist": {
-        "Augenarzt_Sindlinger_Voelkingen": [6, 0]
+        "Augenarzt_ElHusseiny_Saarlouis": [5, 6],
+        "Augenarzt_KaleghiZand_Heusweiler": [0, 1]
     },
     "otorhinolaryngologist": {
-        "HNO_Notfallrufnummer": [6, 0]
+        "HNO_Notfallrufnummer": [5, 6, 0, 1]
     },
     "pharmacy": {
-        "Apotheke_Vitalikum_Ueberherrn": [5],
-        "Apotheke_Glueckauf_Fraulautern": [6],
-        "Apotheke_Park_Wallerfangen": [0],
-        "Apotheke_Globus_Saarlouis": [1],
-        "Apotheke_Marien_Saarlouis": [2],
-        "Apotheke_Ring_Saarlouis": [3],
-        "Apotheke_Glocken_Saarlouis": [4]
+        "Apotheke_Antonius_Altforweiler": [5],
+        "Apotheke_Oranna_Ueberherrn": [6],
+        "Apotheke_Pachtener_Dillingen": [0],
+        "Apotheke_EKC_Bous": [1],
+        "Apotheke_Brunnen_Dillingen": [2],
+        "Apotheke_Loewen_Ensdorf": [3],
+        "Apotheke_Ludwigs_Saarlouis": [4]
     },
     "vet": {
-        "Tierarzt_TimmermannTernes_Dillingen": [6, 0]
+        "Tierarzt_Mittermueller_Dillingen": [5],
+        "Tierarzt_Otto_Ensdorf": [6, 0],
+        "Tierarzt_Weber_Neuforweiler": [1]
     }
 }]
