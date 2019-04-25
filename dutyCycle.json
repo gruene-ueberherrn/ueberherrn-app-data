@@ -1,4 +1,36 @@
 [{
+    "validFrom": "2019-04-26",
+    "doctor": {
+        "BDZ_Saarlouis": [6, 0]
+    },
+    "pediatrist": {
+        "BDZ_Saarlouis_Kinder": [6, 0]
+    },
+    "dentist": {
+        "Zahnarzt_Koglin_Saarlouis": [6, 0],
+        "Zahnarzt_Kurtz_Bous": [3]
+    },
+    "oculist": {
+        "Augenarzt_Strauss_Saarbrücken": [6, 0],
+        "Augenarzt_Hadavi_Saarlouis": [3]
+    },
+    "otorhinolaryngologist": {
+        "HNO_Notfallrufnummer": [6, 0]
+    },
+    "pharmacy": {
+        "Apotheke_Apollonia_Fraulautern": [5],
+        "Apotheke_Marien_Bous": [6],
+        "Apotheke_Easy_Dillingen": [0],
+        "Apotheke_Limberg_Wallerfangen": [1],
+        "Apotheke_Gangolf_Differten": [2],
+        "Apotheke_Cristall_Bous": [3],
+        "Apotheke_City_Saarlouis": [4]
+    },
+    "vet": {
+        "Tierarzt_DörrZimmerJunk_Saarlouis": [6, 0],
+        "Tierarzt_Weber_Saarwellingen": [3]
+    }
+}, {
     "validFrom": "2019-04-19",
     "doctor": {
         "BDZ_Saarlouis": [5, 6, 0, 1]

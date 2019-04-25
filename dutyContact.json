@@ -11,18 +11,23 @@
         "latitude": "49.315190",
         "longitude": "6.756809"
     },
+    "Zahnarzt_Henzler_Bous": {
+        "name": "Dr. M. Henzler, Bous",
+        "phone": "06834-2586",
+        "latitude": "49.275225",
+        "longitude": "6.796054"
+    },
+    "Zahnarzt_Kurtz_Bous": {
+        "name": "Dr. U. Kurtz, Bous",
+        "phone": "06834-770900",
+        "latitude": "49.276755",
+        "longitude": "6.792946"
+    },
     "Zahnarzt_Jacob_Dillingen": {
         "name": "Dr. Dr. Jacob, Dillingen-Pachten",
         "phone": "06831-73073",
         "latitude": "49.355172",
         "longitude": "6.711954"
-    },
-    "Zahnarzt_Worobiow_Wadgassen": {
-        "name": "Dr. Worobiow, Wadgassen",
-        "phone": "06834-41132",
-        "phone2": "0170-3838395",
-        "latitude": "49.267489",
-        "longitude": "6.797950"
     },
     "Zahnarzt_Rotta_Schwalbach": {
         "name": "Dr. A. Rotta, Schwalbach",
@@ -37,11 +42,11 @@
         "latitude": "49.292675",
         "longitude": "6.837309"
     },
-    "Zahnarzt_Henzler_Bous": {
-        "name": "Dr. M. Henzler, Bous",
-        "phone": "06834-2586",
-        "latitude": "49.275225",
-        "longitude": "6.796054"
+    "Zahnarzt_Koglin_Saarlouis": {
+        "name": "Koglin J., Saarlouis",
+        "phone": "06831-49391",
+        "latitude": "49.315764",
+        "longitude": "6.751622"
     },
     "Zahnarzt_Schaefer_Saarlouis": {
         "name": "R. Schäfer, Saarlouis",
@@ -49,11 +54,18 @@
         "latitude": "49.309479",
         "longitude": "6.746926"
     },
-    "Augenarzt_Alles_Saarlouis": {
-        "name": "Dr. Alles und Kollegen, Saarlouis",
-        "phone": "06831-1500",
-        "latitude": "49.316307",
-        "longitude": "6.752763"
+    "Zahnarzt_Worobiow_Wadgassen": {
+        "name": "Dr. Worobiow, Wadgassen",
+        "phone": "06834-41132",
+        "phone2": "0170-3838395",
+        "latitude": "49.267489",
+        "longitude": "6.797950"
+    },
+    "Augenarzt_KaleghiZand_Heusweiler": {
+        "name": "Dr. Kaleghi Zand, Heusweiler",
+        "phone": "06806-77172",
+        "latitude": "49.338958",
+        "longitude": "6.930069"
     },
     "Augenarzt_Anterist_Saarbrücken": {
         "name": "Dr. Barbara Anterist, Saarbrücken",
@@ -61,11 +73,17 @@
         "latitude": "49.241122",
         "longitude": "7.017611"
     },
-    "Augenarzt_Sindlinger_Voelkingen": {
-        "name": "Sindlinger, Völklingen",
-        "phone": "06898-23355",
-        "latitude": "49.250822",
-        "longitude": "6.857029"
+    "Augenarzt_Strauss_Saarbrücken": {
+        "name": "Dr. M. Strauss, Saarbrücken",
+        "phone": "0681-855442",
+        "latitude": "49.218633",
+        "longitude": "7.013710"
+    },
+    "Augenarzt_Alles_Saarlouis": {
+        "name": "Dr. Alles und Kollegen, Saarlouis",
+        "phone": "06831-1500",
+        "latitude": "49.316307",
+        "longitude": "6.752763"
     },
     "Augenarzt_ElHusseiny_Saarlouis": {
         "name": "Dr. El Husseiny, Saarlouis",
@@ -73,11 +91,17 @@
         "latitude": "49.314093",
         "longitude": "6.749370"
     },
-    "Augenarzt_KaleghiZand_Heusweiler": {
-        "name": "Dr. Kaleghi Zand, Heusweiler",
-        "phone": "06806-77172",
-        "latitude": "49.338958",
-        "longitude": "6.930069"
+    "Augenarzt_Hadavi_Saarlouis": {
+        "name": "Dr. Hadavi, Saarlouis",
+        "phone": "06831-1500",
+        "latitude": "49.316257",
+        "longitude": "6.752803"
+    },
+    "Augenarzt_Sindlinger_Voelkingen": {
+        "name": "Sindlinger, Völklingen",
+        "phone": "06898-23355",
+        "latitude": "49.250822",
+        "longitude": "6.857029"
     },
     "HNO_Hartung_Saarbrücken": {
         "name": "Dr. Hartung, Saarbrücken",
@@ -90,18 +114,6 @@
         "phone": "116117",
         "latitude": "",
         "longitude": ""
-    },
-    "Tierarzt_Weber_Saarwellingen": {
-        "name": "Dr. Weber, Saarwellingen",
-        "phone": "06838-8659550",
-        "latitude": "49.329410",
-        "longitude": "6.857307"
-    },
-    "Tierarzt_Voswinkel_Wallerfangen": {
-        "name": "Dr. Voswinkel, Wallerfangen",
-        "phone": "06837-708236",
-        "latitude": "49.331620",
-        "longitude": "6.654440"
     },
     "Tierarzt_TimmermannTernes_Dillingen": {
         "name": "Timmermann & Ternes, Dillingen",
@@ -121,11 +133,35 @@
         "latitude": "49.307788",
         "longitude": "6.777316"
     },
+    "Tierarzt_DörrZimmerJunk_Saarlouis": {
+        "name": "Dörr/Zimmer-Junk, Saarlouis",
+        "phone": "06831-121242",
+        "latitude": "49.315418",
+        "longitude": "6.753421"
+    },
     "Tierarzt_Weber_Neuforweiler": {
         "name": "Dr. Weber, Saarlouis-Neuforweiler",
         "phone": "06831-461470",
         "latitude": "49.286694",
         "longitude": "6.731480"
+    },
+    "Tierarzt_Weber_Saarwellingen": {
+        "name": "Dr. Weber, Saarwellingen",
+        "phone": "06838-8659550",
+        "latitude": "49.329410",
+        "longitude": "6.857307"
+    },
+    "Tierarzt_Voswinkel_Wallerfangen": {
+        "name": "Dr. Voswinkel, Wallerfangen",
+        "phone": "06837-708236",
+        "latitude": "49.331620",
+        "longitude": "6.654440"
+    },
+    "Apotheke_Cristall_Bous": {
+        "name": "Cristall-Apotheke, Bous",
+        "phone": "06834-770790",
+        "latitude": "49.275723",
+        "longitude": "6.798860"
     },
     "Apotheke_EKC_Bous": {
         "name": "Apotheke im EKC, Bous",
@@ -133,11 +169,23 @@
         "latitude": "49.283308",
         "longitude": "6.785463"
     },
+    "Apotheke_Marien_Bous": {
+        "name": "Marien-Apotheke, Bous",
+        "phone": "06834-2300",
+        "latitude": "49.275633",
+        "longitude": "6.796881"
+    },
     "Apotheke_Brunnen_Dillingen": {
         "name": "Brunnen-Apotheke, Dillingen",
         "phone": "06831-703936",
         "latitude": "49.354942",
         "longitude": "6.726538"
+    },
+    "Apotheke_Easy_Dillingen": {
+        "name": "easy-Apotheke, Dillingen",
+        "phone": "06831-4614658",
+        "latitude": "49.356508",
+        "longitude": "6.722829"
     },
     "Apotheke_Pachtener_Dillingen": {
         "name": "Pachtener-Apotheke, Dillingen",
@@ -156,6 +204,12 @@
         "phone": "06831-4881580",
         "latitude": "49.320781",
         "longitude": "6.748424"
+    },
+    "Apotheke_City_Saarlouis": {
+        "name": "City-Apotheke, Saarlouis",
+        "phone": "06831-5014486",
+        "latitude": "49.312166",
+        "longitude": "6.755101"
     },
     "Apotheke_Docs_Saarlouis": {
         "name": "Doc's Apotheke, Saarlouis",
@@ -199,6 +253,12 @@
         "latitude": "49.325126",
         "longitude": "6.761193"
     },
+    "Apotheke_Apollonia_Fraulautern": {
+        "name": "Apollonia-Apotheke, Saarlouis-Fraulautern",
+        "phone": "06831-82828",
+        "latitude": "49.326257",
+        "longitude": "6.765286"
+    },
     "Apotheke_Crispinus_Lisdorf": {
         "name": "Crispinus-Apotheke, Saarlouis-Lisdorf",
         "phone": "06831-3055",
@@ -240,6 +300,18 @@
         "phone": "06836-5212",
         "latitude": "49.272709",
         "longitude": "6.708249"
+    },
+    "Apotheke_Gangolf_Differten": {
+        "name": "Gangolf-Apotheke, Wadgassen-Differten",
+        "phone": "06834-60267",
+        "latitude": "49.242345",
+        "longitude": "6.778328"
+    },
+    "Apotheke_Limberg_Wallerfangen": {
+        "name": "Limberg-Apotheke, Wallerfangen",
+        "phone": "06831-61777",
+        "latitude": "49.330627",
+        "longitude": "6.716353"
     },
     "Apotheke_Park_Wallerfangen": {
         "name": "Park-Apotheke, Wallerfangen",
